@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./app/libs/zip4j.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/zip4j.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
